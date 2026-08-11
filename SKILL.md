@@ -10,7 +10,7 @@ description: >
   "write up my repo", "document this project", "I need a README for this", "give me the
   GitHub blurb", or when a user hands over source code and asks what to say about it.
 metadata:
-  version: "1.0.0"
+  version: "1.0.2"
   author: "TABARC-Code"
 ---
 
